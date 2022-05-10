@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/rheola/storage/internal/storage"
+	"github.com/rheola/storage/v2/internal/storage"
 )
 
 func main() {

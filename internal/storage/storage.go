@@ -2,8 +2,9 @@ package storage
 
 import (
 	"fmt"
+
 	"github.com/google/uuid"
-	"github.com/rheola/storage/internal/file"
+	"github.com/rheola/storage/v2/internal/file"
 )
 
 type Storage struct {

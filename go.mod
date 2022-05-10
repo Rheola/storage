@@ -1,4 +1,4 @@
-module github.com/rheola/storage
+module github.com/rheola/storage/v2
 
 go 1.17
 
